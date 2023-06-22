@@ -1,1 +1,1 @@
-console.log("this is hello world server side js");
+console.log("this is hello world server side")
